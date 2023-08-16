@@ -1,0 +1,29 @@
+
+
+
+.site_headers {
+   padding: 4px;
+   background-color: aliceblue;
+ 
+}
+.site_header {
+   background-color: rgb(39, 36, 36);
+   padding-top: 30px;
+   padding-bottom: 50px;
+   color: antiquewhite;
+}
+
+.logo {
+   margin-left: 15px;
+   margin-bottom: 20px;
+   
+}
+
+.number_story {
+   margin-left: 15px;
+   margin-bottom: 20px;
+   margin-right: px;
+   font-size: 20px;
+   
+
+}
